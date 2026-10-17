@@ -1,0 +1,26 @@
+# Marca local do script de exportação
+.gerado_por_exportar_publico
+
+# Vídeos (não publicados: mostram pessoas)
+videos/
+*.mp4
+*.mov
+*.MP4
+*.MOV
+
+# Pesos de modelos
+*.pt
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Compilação da monografia
+monografia/*.aux
+monografia/*.bbl
+monografia/*.blg
+monografia/*.log
+monografia/*.out
+monografia/*.toc
+monografia/*.pdf

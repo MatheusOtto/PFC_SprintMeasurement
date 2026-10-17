@@ -1,0 +1,24 @@
+{
+  "video": "Trotando_2.mp4",
+  "frame_calibracao": 0,
+  "pontos_px": [
+    [
+      274.0,
+      592.0
+    ],
+    [
+      1098.0,
+      594.0
+    ]
+  ],
+  "x_linhas_px": [
+    274.0,
+    1098.0
+  ],
+  "distancia_real_m": 5.0,
+  "distancia_px": 824.0,
+  "metros_por_pixel": 0.006067961165048544,
+  "resolucao_clique_px": 1.0,
+  "origem": "cliques em src/calibrar.py",
+  "data": "2026-10-17T01:05:44"
+}

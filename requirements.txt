@@ -1,0 +1,14 @@
+# Versões FIXAS de propósito. Em 2026-10-07 os mesmos pesos (yolo26n-pose.pt) no
+# mesmo vídeo deram detecções diferentes em ultralytics 8.4.133 e 8.4.174
+# (diagnostico/J_Correndo.md). Trocar qualquer versão é mudança de método:
+# exige comparação antes/depois, como qualquer outra.
+#
+# Ambiente de referência: Python 3.14.7, CPU (sem CUDA).
+# A versão efetivamente usada em cada extração fica gravada no JSON ao lado do CSV.
+opencv-python==5.0.0.93
+numpy==2.5.3
+torch==2.14.1
+torchvision==0.29.1
+ultralytics==8.4.174
+# Só exibição: texto com acentos na tela do visualizar_medicao.py (já vem com o ultralytics).
+pillow==12.3.0

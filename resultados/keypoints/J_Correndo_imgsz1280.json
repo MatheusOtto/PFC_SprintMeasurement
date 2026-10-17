@@ -1,0 +1,27 @@
+{
+  "video": "J_Correndo.mp4",
+  "largura_px": 1920,
+  "altura_px": 1080,
+  "fps_nominal": 59.978892186640635,
+  "n_frames_container": 807,
+  "n_frames_processados": 807,
+  "interrompido": false,
+  "frames_com_pessoa": 558,
+  "modelo": "yolo26n-pose.pt",
+  "modelo_md5": "af743a72087d8101c1025b9165056f79",
+  "imgsz": 1280,
+  "conf_deteccao": 0.25,
+  "selecao_pessoa": "maior bbox",
+  "base_tempo": "t_ms = CAP_PROP_POS_MSEC após read(); t_nominal_s = frame / fps_nominal",
+  "dispositivo": "cpu",
+  "versoes": {
+    "python": "3.14.7",
+    "ultralytics": "8.4.174",
+    "torch": "2.14.1+cpu",
+    "opencv": "5.0.0",
+    "numpy": "2.5.3"
+  },
+  "data_extracao": "2026-10-07T00:47:49",
+  "tempo_processamento_s": 117.3,
+  "ms_por_frame": 145.4
+}

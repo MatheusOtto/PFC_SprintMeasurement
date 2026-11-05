@@ -1,0 +1,4 @@
+saidas/
+__pycache__/
+*.py[cod]
+.venv/

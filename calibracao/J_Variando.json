@@ -1,0 +1,24 @@
+{
+  "video": "J_Variando.mp4",
+  "frame_calibracao": 0,
+  "pontos_px": [
+    [
+      1767.5,
+      478.2
+    ],
+    [
+      263.5,
+      487.0
+    ]
+  ],
+  "x_linhas_px": [
+    263.5,
+    1767.5
+  ],
+  "distancia_real_m": 20.0,
+  "distancia_px": 1504.0,
+  "metros_por_pixel": 0.013297872340425532,
+  "resolucao_clique_px": 1.48,
+  "origem": "cliques em src/calibrar.py",
+  "data": "2026-10-07T10:19:11"
+}

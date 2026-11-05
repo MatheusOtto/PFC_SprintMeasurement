@@ -1,0 +1,8 @@
+# Versões usadas nos resultados (Python 3.14.7, processamento em CPU).
+opencv-python==5.0.0.93
+numpy==2.5.3
+torch==2.14.1
+torchvision==0.29.1
+ultralytics==8.4.174
+matplotlib==3.11.2
+pillow==12.3.0
